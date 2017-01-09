@@ -55,7 +55,7 @@ This only works if the remote is properly implementing a Maven 2 repository form
 
 If the remote repository has Maven metadata that is not giving you results you expect, this tool cannot fix that.
 
-## Can I get latest SNAPSHOT wit hthis program?
+## Can I get latest SNAPSHOT with this program?
 
 Sure, the program doesn't mind. As long as you understand simple stuff like `1.7-SNAPSHOT` is higher than `1.6` release for example.
 
