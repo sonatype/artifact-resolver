@@ -47,7 +47,7 @@ class ArtifactResolver
 
   private LocalRepository local
 
-  final static String OPEN_RANGE = ':[0,)'
+  final static String OPEN_RANGE = '[0,)'
 
   ArtifactResolver(String artifactName, RemoteRepository remote, LocalRepository local) {
     this.artifactName = artifactName
