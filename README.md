@@ -37,6 +37,7 @@ This program is meant as an example alternative client side only replacement for
 ```
 /service/local/artifact/maven/content
 /service/local/artifact/maven/redirect
+/service/local/artifact/maven/resolve
 ```
 
 It demonstrates how you can use a standalone client to accomplish a similar result as the Nexus 2.x REST APIs against
