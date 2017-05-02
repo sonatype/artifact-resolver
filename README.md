@@ -204,9 +204,9 @@ And besides Nexus 2 has a REST API that does what you want.
 
 ..and Nexus 3 should get around to having a REST API that does this magic for you eventually.
 
-## Dude! This sucks balls!!!
+## Dude! This is lame!!!
 
-Yep. Its free as in Free Range Turkey...the rest is up to you.
+Sure. It's free though. Free as in Free Range Turkey...the rest is up to you.
 
 ## Dude! I've read this far. What do I win?
 
